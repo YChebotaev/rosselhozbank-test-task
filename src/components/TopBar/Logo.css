@@ -1,0 +1,8 @@
+.TopBar__logo {
+  flex-shrink: 0;
+  width: 60px;
+  height: 60px;
+  margin-left: 1rem;
+  background-image: URL("./logo.png");
+  background-size: cover;
+}

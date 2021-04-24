@@ -1,0 +1,7 @@
+.TopBar__author {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+  font-family: sans-serif;
+  color: #ffffff;
+}

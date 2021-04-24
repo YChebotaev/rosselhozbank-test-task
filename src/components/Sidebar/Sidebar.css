@@ -1,0 +1,9 @@
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.Sidebar > *:not(:last-child) {
+  margin-bottom: 0.3rem;
+}

@@ -1,0 +1,6 @@
+.Place {
+  display: grid;
+  width: 100vw;
+  height: calc(100vh - var(--top-bar-height));
+  grid-template-columns: var(--sidebar-width) calc(100% - var(--sidebar-width));
+}

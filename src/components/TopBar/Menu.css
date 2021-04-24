@@ -1,0 +1,9 @@
+.TopBar__menu {
+  display: flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.TopBar__menu > *:not(:last-child) {
+  margin-right: 1rem;
+}

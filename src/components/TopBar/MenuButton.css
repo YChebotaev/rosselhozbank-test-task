@@ -1,0 +1,22 @@
+.MenuButton {
+  padding: 0.5rem 1rem;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+.MenuButton:hover {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.MenuButton--current {
+  color: #19502e;
+  background-color: #ffffff;
+}
+
+.MenuButton--current:hover {
+  color: #19502e;
+}
